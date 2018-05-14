@@ -1,0 +1,6000 @@
+
+{"name": "BloomDates",
+   "dates":
+[
+ {
+   "City": "Sapporo",
+   "First Bloom Date": "4/26/2018",
+   "Full Bloom Date": "4/29/2018",
+   "Fall Date": "5/13/2018"
+ },
+ {
+   "City": "Muroran",
+   "First Bloom Date": "4/29/2018",
+   "Full Bloom Date": "5/1/2018",
+   "Fall Date": "5/15/2018"
+ },
+ {
+   "City": "Hakodate",
+   "First Bloom Date": "4/25/2018",
+   "Full Bloom Date": "4/28/2018",
+   "Fall Date": "5/12/2018"
+ },
+ {
+   "City": "Aomori",
+   "First Bloom Date": "4/19/2018",
+   "Full Bloom Date": "4/22/2018",
+   "Fall Date": "5/6/2018"
+ },
+ {
+   "City": "Akita",
+   "First Bloom Date": "4/17/2018",
+   "Full Bloom Date": "4/20/2018",
+   "Fall Date": "5/4/2018"
+ },
+ {
+   "City": "Morioka",
+   "First Bloom Date": "4/17/2018",
+   "Full Bloom Date": "4/20/2018",
+   "Fall Date": "5/4/2018"
+ },
+ {
+   "City": "Yamagata",
+   "First Bloom Date": "4/4/2018",
+   "Full Bloom Date": "4/11/2018",
+   "Fall Date": "4/25/2018"
+ },
+ {
+   "City": "Sendai",
+   "First Bloom Date": "3/30/2018",
+   "Full Bloom Date": "4/4/2018",
+   "Fall Date": "4/18/2018"
+ },
+ {
+   "City": "Fukushima",
+   "First Bloom Date": "3/29/2018",
+   "Full Bloom Date": "4/2/2018",
+   "Fall Date": "4/16/2018"
+ },
+ {
+   "City": "Tokyo",
+   "First Bloom Date": "3/17/2018",
+   "Full Bloom Date": "3/24/2018",
+   "Fall Date": "4/7/2018"
+ },
+ {
+   "City": "Choshi",
+   "First Bloom Date": "3/20/2018",
+   "Full Bloom Date": "3/28/2018",
+   "Fall Date": "4/11/2018"
+ },
+ {
+   "City": "Yokohama",
+   "First Bloom Date": "3/19/2018",
+   "Full Bloom Date": "3/27/2018",
+   "Fall Date": "4/10/2018"
+ },
+ {
+   "City": "Mito",
+   "First Bloom Date": "3/25/2018",
+   "Full Bloom Date": "3/28/2018",
+   "Fall Date": "4/11/2018"
+ },
+ {
+   "City": "Utsunomiya",
+   "First Bloom Date": "3/26/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Maebashi",
+   "First Bloom Date": "3/25/2018",
+   "Full Bloom Date": "3/28/2018",
+   "Fall Date": "4/11/2018"
+ },
+ {
+   "City": "Kumagaya",
+   "First Bloom Date": "3/22/2018",
+   "Full Bloom Date": "3/26/2018",
+   "Fall Date": "4/9/2018"
+ },
+ {
+   "City": "Nagano",
+   "First Bloom Date": "4/2/2018",
+   "Full Bloom Date": "4/6/2018",
+   "Fall Date": "4/20/2018"
+ },
+ {
+   "City": "Kofu",
+   "First Bloom Date": "3/23/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Niigata",
+   "First Bloom Date": "4/3/2018",
+   "Full Bloom Date": "4/5/2018",
+   "Fall Date": "4/19/2018"
+ },
+ {
+   "City": "Toyama",
+   "First Bloom Date": "3/27/2018",
+   "Full Bloom Date": "3/30/2018",
+   "Fall Date": "4/13/2018"
+ },
+ {
+   "City": "Kanazawa",
+   "First Bloom Date": "3/29/2018",
+   "Full Bloom Date": "4/3/2018",
+   "Fall Date": "4/17/2018"
+ },
+ {
+   "City": "Fukui",
+   "First Bloom Date": "3/29/2018",
+   "Full Bloom Date": "4/2/2018",
+   "Fall Date": "4/16/2018"
+ },
+ {
+   "City": "Nagoya",
+   "First Bloom Date": "3/19/2018",
+   "Full Bloom Date": "3/27/2018",
+   "Fall Date": "4/10/2018"
+ },
+ {
+   "City": "Shizuoka",
+   "First Bloom Date": "3/18/2018",
+   "Full Bloom Date": "3/27/2018",
+   "Fall Date": "4/10/2018"
+ },
+ {
+   "City": "Gifu",
+   "First Bloom Date": "3/19/2018",
+   "Full Bloom Date": "3/26/2018",
+   "Fall Date": "4/9/2018"
+ },
+ {
+   "City": "Tsu",
+   "First Bloom Date": "3/26/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Osaka",
+   "First Bloom Date": "3/20/2018",
+   "Full Bloom Date": "3/26/2018",
+   "Fall Date": "4/9/2018"
+ },
+ {
+   "City": "Hikone",
+   "First Bloom Date": "3/27/2018",
+   "Full Bloom Date": "4/1/2018",
+   "Fall Date": "4/15/2018"
+ },
+ {
+   "City": "Kyoto",
+   "First Bloom Date": "3/22/2018",
+   "Full Bloom Date": "3/28/2018",
+   "Fall Date": "4/11/2018"
+ },
+ {
+   "City": "Kobe",
+   "First Bloom Date": "3/23/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Nara",
+   "First Bloom Date": "3/24/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Wakayama",
+   "First Bloom Date": "3/20/2018",
+   "Full Bloom Date": "3/27/2018",
+   "Fall Date": "4/10/2018"
+ },
+ {
+   "City": "Hiroshima",
+   "First Bloom Date": "3/22/2018",
+   "Full Bloom Date": "3/28/2018",
+   "Fall Date": "4/11/2018"
+ },
+ {
+   "City": "Okayama",
+   "First Bloom Date": "3/25/2018",
+   "Full Bloom Date": "3/28/2018",
+   "Fall Date": "4/11/2018"
+ },
+ {
+   "City": "Matsue",
+   "First Bloom Date": "3/26/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Tottori",
+   "First Bloom Date": "3/24/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Shimonoseki",
+   "First Bloom Date": "3/23/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Takamatsu",
+   "First Bloom Date": "3/24/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Tokushima",
+   "First Bloom Date": "3/23/2018",
+   "Full Bloom Date": "3/28/2018",
+   "Fall Date": "4/11/2018"
+ },
+ {
+   "City": "Matsuyama",
+   "First Bloom Date": "3/19/2018",
+   "Full Bloom Date": "3/27/2018",
+   "Fall Date": "4/10/2018"
+ },
+ {
+   "City": "Kochi",
+   "First Bloom Date": "3/15/2018",
+   "Full Bloom Date": "3/19/2018",
+   "Fall Date": "4/2/2018"
+ },
+ {
+   "City": "Fukuoka",
+   "First Bloom Date": "3/19/2018",
+   "Full Bloom Date": "3/27/2018",
+   "Fall Date": "4/10/2018"
+ },
+ {
+   "City": "Oita",
+   "First Bloom Date": "3/23/2018",
+   "Full Bloom Date": "3/30/2018",
+   "Fall Date": "4/13/2018"
+ },
+ {
+   "City": "Nagasaki",
+   "First Bloom Date": "3/17/2018",
+   "Full Bloom Date": "3/26/2018",
+   "Fall Date": "4/9/2018"
+ },
+ {
+   "City": "Saga",
+   "First Bloom Date": "3/20/2018",
+   "Full Bloom Date": "3/27/2018",
+   "Fall Date": "4/10/2018"
+ },
+ {
+   "City": "Kumamoto",
+   "First Bloom Date": "3/17/2018",
+   "Full Bloom Date": "3/26/2018",
+   "Fall Date": "4/9/2018"
+ },
+ {
+   "City": "Miyazaki",
+   "First Bloom Date": "3/16/2018",
+   "Full Bloom Date": "3/26/2018",
+   "Fall Date": "4/9/2018"
+ },
+ {
+   "City": "Kagoshima",
+   "First Bloom Date": "3/17/2018",
+   "Full Bloom Date": "3/29/2018",
+   "Fall Date": "4/12/2018"
+ },
+ {
+   "City": "Naha",
+   "First Bloom Date": "1/10/2018",
+   "Full Bloom Date": "1/30/2018",
+   "Fall Date": "2/13/2018"
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ },
+ {
+   "City": "",
+   "First Bloom Date": "",
+   "Full Bloom Date": "",
+   "Fall Date": ""
+ }
+]
+}
