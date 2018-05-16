@@ -1,0 +1,27 @@
+<script type="text/javascript">
+function show(id)
+
+{
+
+    //alert(id);
+
+    var img = document.getElementById(id);
+
+    if(img.style.display == "block")
+
+    {
+
+        document.getElementById(id).style.display = "none";
+
+    }
+
+    else if(document.getElementById(id).style.display == "none")
+
+    {
+
+        document.getElementById(id).style.display = "block";
+
+    }
+
+}
+</script>

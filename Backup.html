@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+    <meta name="ProgId" content="FrontPage.Editor.Document">
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <title>Cherry Blossom</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v0.min.js"></script>
+    <script src="js/jquery-1.8.0.js"></script>
+
+</head>
+<style> 
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+</style>
+<body style="text-align:center;">
+
+
+    <table width="1000" border="0" cellspacing="0" cellpadding="0" x="50" y="50">
+        <tr>
+            <td width="40%" height="30" bgcolor="#F8E0E0">
+                <span class="title_1">* </span>When will you go to see Spring cherry blossom?
+            </td>
+            <td width="5%" bgcolor="#F8E0E0">
+
+            </td>
+            <td width="15%" bgcolor="#F8E0E0">
+                <select id="months">
+                    <option value="March">March</option>
+                    <option value="April">April</option>
+                    <option value="May">May</option>
+                </select> Month
+            </td>
+            <td width="20%" bgcolor="#F8E0E0">
+                <select id="days">
+                    <option value="Early (Day 01-10)">Early (Day 01-10)</option>
+                    <option value="Mid (Day 11-20)">Mid (Day 11-20)</option>
+                    <option value="Late (Day 21-31)">Late (Day 21-31)</option>
+
+                </select> Period
+                
+            </td>
+            <td width="40%" height="25" bgcolor="#F8E0E0">
+              <button type="button" onclick="selectCategory(this);">Click to see where cherry bloom!</button>
+            </td>
+        </tr>
+    </table>
+
+    <table width="1700" border="0" cellspacing="0" cellpadding="0" x="500" y="50">
+        <tr>
+            <td width="100%" height="30" bgcolor="white">
+                <span class="title_2"> </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                (The sites will be shown after clicking the button above.)
+        </tr>
+    </table>
+
+    
+
+    <script>
+        // 选择指定的下拉菜单后弹出的数据
+        function selectCategory() {
+            var x = document.getElementById("months").value;
+            var y = document.getElementById("days").value;
+            var fill;
+            var loc;
+            // add more options here
+            if (x == 'May'){
+              if (y == "Early (Day 01-10)"){
+                fill = "Early_May.json";
+              }
+              if (y == 'Mid (Day 11-20)'){
+                fill = "Mid_May.json";
+              }
+              if (y == "Late (Day 21-31)"){
+                fill = "Late_May.json";
+              }                            
+            }
+
+            if (x == 'April'){
+              if (y == "Early (Day 01-10)"){
+                fill = "Early_April.json";
+              }
+              if (y == 'Mid (Day 11-20)'){
+                fill = "Mid_April.json";
+              }
+              if (y == "Late (Day 21-31)"){
+                fill = "Late_April.json";
+              }                            
+            }
+
+            if (x == 'March'){
+              if (y == "Early (Day 01-10)"){
+                fill = "Early_March.json";
+              }
+              if (y == 'Mid (Day 11-20)'){
+                fill = "Mid_March.json";
+              }
+              if (y == "Late (Day 21-31)"){
+                fill = "Late_March.json";
+              }                            
+            }
+
+            showmap(fill, loc);
+        }
+
+
+        function showmap(fill, loc) {
+            console.log(fill);
+            // remove the previous svg layer
+            var s = d3.selectAll('svg');
+            s.remove();
+
+
+            //定义地图长宽
+            var height = "780"
+            var width = "1300"
+
+            //定义地图的容器和样式
+            var svg = d3.select("body").append("svg")
+                .attr("width", width)
+                .attr("height", height);
+
+
+            //投影函数
+            d3.json("japan.geojson", function(error, jpn) {
+
+                var projection = d3.geo.mercator()
+                    .center([140, 38])
+                    .scale(2000)
+                    .translate([width / 2, height / 2]);
+
+                var path = d3.geo.path()
+                    .projection(projection);
+
+            //设置地图格式
+                svg.selectAll("path")
+                    .data(jpn.features)
+                    .enter()
+                    .append("path")
+                    .attr("stroke", "white")
+                    .attr("fill", "#E3F6CE")
+                    .attr("stroke-width", "0.5")
+                    .attr("d", path)
+
+
+                //将数据填充进分组中
+                var data_fill = d3.json(fill, function(error, data) {
+                    console.log();
+
+                    //插入分组元素  
+                    var location = svg.selectAll(".location")
+                        .data(data.location)
+                        .enter()
+                        .append("g")
+                        .attr("class", "location")
+                        .attr("transform", function(d) {
+
+                    //计算标注点的位置
+                            var coor = projection([d.log, d.lat]);
+                            return "translate(" + coor[0] + "," + coor[1] + ")";
+                        });
+
+
+                    //添加提示框
+                    var tooltip = d3.select("body")
+                        .append("div")
+                        .attr("class", "tooltip")
+                        .style("opacity", 1)
+                        .style("position", "absolute")
+                        tooltip.useHTML = true;
+
+
+                       
+                    //添加樱花图片信息
+                    location.append("image")
+                        .attr("xlink:href", "CB_Overlay.png")
+                        .attr("height", 15)
+                        .attr("width", 15)
+                        .attr("opacity", 1)
+
+                    //实现樱花的缩放效果   
+                        .on("mouseover", function(d){
+                         tooltip.html("<img src="+d.img+" width = "+120+" height = "+120+">"  +"<br>"+ "City:"+d.City+ "<br>" + "Full Bloom Date:"+d.Fulldate)
+
+                        .style("left", d3.event.pageX - 20+ "px")
+                        .style("top", d3.event.pageY + 20 + "px")
+                        .style("right", d3.event.pageY - 20 + "px")
+                        .style("down", d3.event.pageY - 20 + "px")
+                        .style("opacity", 1)
+                        
+                         d3.select(this).transition()
+                                        .duration(100)
+                                        .attr("height", 50)
+                                        .attr("width", 50)
+                                         
+                                                     })
+                       .on("mouseout", function(){
+                      tooltip.style("opacity", 0)
+                      d3.select(this).transition()
+                                      .duration(100)
+                                      .attr("height", 15)
+                                      .attr("width", 15)
+                    
+
+                        });
+             
+
+                });
+              
+
+
+                //添加标题
+                var title1 = svg.append("text")
+                    .attr("x", 230)
+                    .attr("y", 37)
+                    .style("text-anchor", "middle")
+                    .style("font-weight", "bold")
+                    .style("font-size", "22")
+                    .attr("fill", "pink")
+                    .text("🌸 The Bloom of 2018 Cherry Blossom 🌸")
+
+                var title2 = svg.append("text")
+                    .attr("x", 225)
+                    .attr("y", 80)
+                    .style("text-anchor", "middle")
+                    
+                    .style("font-size", "16")
+                    .attr("fill", "pink")
+                    .text("(* The map will be blank if no cherry bloom in the period.)")
+
+                
+
+                //设置选择看樱花的日期
+
+                var today = new Date() //定义一个时间对象 
+                var yy = today.getYear()
+                var mm = today.getMonth() + 1
+                var dd = today.getDate()
+                var h = today.getHours() //定义小时 
+                var m = today.getMinutes() //定义分钟 
+            });
+};
+
+        
+    </script>
+</body>
+
+</html>

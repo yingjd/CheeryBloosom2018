@@ -10,9 +10,7 @@
 <body>
 <span id="span1">0</span> 
 
-<style type="background">
-  document.body.style.backgroundColor = "black";
-</style>
+
 <script>
 //定义地图长宽
 var height = "780"
@@ -53,61 +51,61 @@ d3.json("places.json", function(error, places) {
 
        
      //添加提示框
-     var tooltip = d3.select("body")
-                     .append("div")
-                     .attr("class", "tooltip")
-                     .style("opacity", 0)
-                     .style("position", "absolute");
+     // var tooltip = d3.select("body")
+     //                 .append("div")
+     //                 .attr("class", "tooltip")
+     //                 .style("opacity", 0)
+     //                 .style("position", "absolute");
      
                           
-      //插入一个圆
-      location.append("circle")
-              .attr("r",8)
-              .attr("fill", "pink")
-              .attr("class","location")      
-              .on("mouseover", function(d){
-                tooltip.html("City:"+d.name)
-                        .style("left", d3.event.pageX - 10+ "px")
-                        .style("top", d3.event.pageY + 10 + "px")
-                                .style("opacity", 1)
-                  d3.select(this).transition()
-                                        .duration(150)
-                                        .attr("r", 15)
-              })
-              .on("mouseout", function(){
-                tooltip.style("opacity", 0)
-                d3.select(this).transition()
-                                      .duration(150)
-                                      .attr("r", 8)
+      // //插入一个圆
+      // location.append("circle")
+      //         .attr("r",8)
+      //         .attr("fill", "pink")
+      //         .attr("class","location")      
+      //         .on("mouseover", function(d){
+      //           tooltip.html("City:"+d.name)
+      //                   .style("left", d3.event.pageX - 10+ "px")
+      //                   .style("top", d3.event.pageY + 10 + "px")
+      //                           .style("opacity", 1)
+      //             d3.select(this).transition()
+      //                                   .duration(150)
+      //                                   .attr("r", 15)
+      //         })
+      //         .on("mouseout", function(){
+      //           tooltip.style("opacity", 0)
+      //           d3.select(this).transition()
+      //                                 .duration(150)
+      //                                 .attr("r", 8)
 
 
-                }); 
+                // }); 
 }); 
 
 
 
 //创建可以显示温度的数值
 
-var num = 0;  
-            var t = setInterval(function(){  
-               num++;  
-               var span1 = document.getElementById("span1");  
-               span1.innerText = num;  
-                    if(num==10){  
-                        clearInterval(t);  
-                    }         
-            },100);  
+// var num = 0;  
+//             var t = setInterval(function(){  
+//                num++;  
+//                var span1 = document.getElementById("span1");  
+//                span1.innerText = num;  
+//                     if(num==10){  
+//                         clearInterval(t);  
+//                     }         
+//             },100);  
 
 //创建显示提示框用的矩形
-       svg.append("rect")
-                        .attr("id", "tooltip1")
-                        .attr("x", 50)
-                        .attr("y",50)
-                        .attr("width",140)
-                        .attr("height",130)
-                        .attr("stroke","black")
-                        .attr("fill","none")
-                        .style("position", "absolute");
+       // svg.append("rect")
+       //                  .attr("id", "tooltip1")
+       //                  .attr("x", 50)
+       //                  .attr("y",50)
+       //                  .attr("width",140)
+       //                  .attr("height",130)
+       //                  .attr("stroke","black")
+       //                  .attr("fill","none")
+       //                  .style("position", "absolute");
 
           
 

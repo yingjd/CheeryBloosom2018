@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>Cherry Blossom</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v0.min.js"></script>
+</head>
+<body>
+
+
+<script>
+var width = 1300;
+var height =1100;
+
+var svg = d3.select("body")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+
+
+			var date;
+
+			d3.json("dates.json", function(error, data) {
+				date=data;
+
+
+			});
+			function opacOver(i,day){
+				console.log(i);
+				var x;
+				var y;
+				var z;
+				if (i<49&&day<date[i].First){
+					return 0;
+				}else if(i<49&&day>=date[i].First&&day<=date[i].Fall){
+					x = date[i].Fall -date[i].First;
+					y= date[i].Fall-day;
+					z=(x-y)/x
+					console.log("z="+z);
+					return z;
+				}else{
+					return 0;
+				}
+			};
+				function opacUnder(i,day){
+					var x;
+					var y;
+					var z;
+					if (i<49&&day<date[i].First){
+						return 0;
+					}else if(i<49&&day>=date[i].First&&day<=date[i].Fall){
+						return 1;
+					}else{
+						return 0;
+					};
+
+
+		};
+
+
+
+d3.json("japan.geojson", function (error, jpn) {
+
+   var projection = d3.geo.mercator()
+        .center([137, 35])
+        .scale(2000)
+        .translate([width / 2, height / 2]);
+
+   var path = d3.geo.path()
+        .projection(projection);
+
+
+   // Mark Tokyo on the map coordinate
+    var tokyo = [139.6917,35.6895];
+    var protokyo = projection (tokyo)
+
+
+
+
+
+   svg.selectAll("path")
+    .data(jpn.features)
+    .enter()
+    .append("path")
+    .attr("stroke", "gray")
+    .attr("fill","none")
+    .attr("stroke-width", "0.25")
+    .attr("d", path);
+
+
+    svg.append("circle")
+    .attr("class","point")
+    .attr("cx",protokyo[0])
+    .attr("cy",protokyo[1])
+    .attr("r",2)
+    .attr("fill","pink");
+});
+
+		var places;
+		var city=[];
+		var procity;
+d3.json("places.json", function(error, data) {
+		projection = d3.geo.mercator()
+			 .center([137, 35])
+			 .scale(2000)
+			 .translate([width / 2, height / 2]);
+
+			places = data;
+			var i;
+
+			var realDay = 43202;
+
+
+
+			for (i = 0; i <places.location.length; i++) {
+
+				city=[places.location[i].log,places.location[i].lat];
+				procity= projection(city);
+				svg.append("image")
+				.attr("xlink:href", "CB_Background.png")
+				.attr("x", procity[0]-15)
+				.attr("y", procity[1]-15)
+				.attr("height", 30)
+				.attr("width", 30)
+				.attr("opacity", opacUnder(i,realDay));
+
+
+				svg.append("image")
+				.attr("xlink:href", "CB_Overlay.png")
+				.attr("x", procity[0]-15)
+				.attr("y", procity[1]-15)
+				.attr("height", 30)
+				.attr("width", 30)
+				.attr("opacity", opacOver(i,realDay));
+};
+});
+
+
+
+</script>
+</body>
+</html>
