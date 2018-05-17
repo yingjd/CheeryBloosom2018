@@ -12,7 +12,10 @@
     <script src="js/jquery-1.8.0.js"></script>
 
 </head>
-<style> 
+<style type="text/css">
+body{
+  background-color: #98CCFF;
+}
 .tooltip {
     position: relative;
     display: inline-block;
@@ -21,7 +24,7 @@
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: 500px;
     background-color: #555;
     color: #fff;
     text-align: center;
@@ -52,13 +55,10 @@
     opacity: 1;
 }
 </style>
-
 <body style="text-align:center;">
 
 
-
-
-    <table width="1000" border="0" cellspacing="0" cellpadding="0" x="50" y="50">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" x="0" y="0">
         <tr>
             <td width="40%" height="30" bgcolor="#F8E0E0">
                 <span class="title_1">* </span>When will you go to see Spring cherry blossom?
@@ -80,32 +80,31 @@
                     <option value="Late (Day 21-31)">Late (Day 21-31)</option>
 
                 </select> Period
-                
+
             </td>
             <td width="40%" height="25" bgcolor="#F8E0E0">
-              <button type="button" onclick="selectCategory(this);">Click to see where cherry bloom!</button>
+              <button type="button" onclick="selectCategory(this);">Click to see the cities in bloom!</button>
             </td>
         </tr>
     </table>
 
-    <table width="1700" border="0" cellspacing="0" cellpadding="0" x="500" y="50">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" x="500" y="50">
         <tr>
-            <td width="100%" height="30" bgcolor="white">
-                <span class="title_2"> </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                (The sites will be shown after clicking the button above.)
+            <td width="100%" height="30" bgcolor="#F8E0E0">
+                <span class="title_2"> </span>
+                (A map will be shown after clicking the button above.)
         </tr>
     </table>
 
-    
-  
+
+
     <script>
         // 选择指定的下拉菜单后弹出的数据
-        var fill;
-        var loc;
-        
         function selectCategory() {
             var x = document.getElementById("months").value;
             var y = document.getElementById("days").value;
+            var fill;
+            var loc;
             // add more options here
             if (x == 'May'){
               if (y == "Early (Day 01-10)"){
@@ -116,7 +115,7 @@
               }
               if (y == "Late (Day 21-31)"){
                 fill = "Late_May.json";
-              }                            
+              }
             }
 
             if (x == 'April'){
@@ -128,20 +127,19 @@
               }
               if (y == "Late (Day 21-31)"){
                 fill = "Late_April.json";
-              }                            
+              }
             }
 
             if (x == 'March'){
               if (y == "Early (Day 01-10)"){
                 fill = "Early_March.json";
-            }
-
+              }
               if (y == 'Mid (Day 11-20)'){
                 fill = "Mid_March.json";
               }
               if (y == "Late (Day 21-31)"){
                 fill = "Late_March.json";
-              }                            
+              }
             }
 
             showmap(fill, loc);
@@ -149,6 +147,7 @@
 
 
         function showmap(fill, loc) {
+            console.log(fill);
             // remove the previous svg layer
             var s = d3.selectAll('svg');
             s.remove();
@@ -156,7 +155,7 @@
 
             //定义地图长宽
             var height = "780"
-            var width = "1100"
+            var width = "1300"
 
             //定义地图的容器和样式
             var svg = d3.select("body").append("svg")
@@ -168,7 +167,7 @@
             d3.json("japan.geojson", function(error, jpn) {
 
                 var projection = d3.geo.mercator()
-                    .center([135, 38])
+                    .center([140, 38])
                     .scale(2000)
                     .translate([width / 2, height / 2]);
 
@@ -180,7 +179,7 @@
                     .data(jpn.features)
                     .enter()
                     .append("path")
-                    .attr("stroke", "white")
+                    .attr("stroke", "gray")
                     .attr("fill", "#E3F6CE")
                     .attr("stroke-width", "0.5")
                     .attr("d", path)
@@ -188,8 +187,9 @@
 
                 //将数据填充进分组中
                 var data_fill = d3.json(fill, function(error, data) {
+                    console.log();
 
-                    //插入分组元素  
+                    //插入分组元素
                     var location = svg.selectAll(".location")
                         .data(data.location)
                         .enter()
@@ -207,49 +207,48 @@
                     var tooltip = d3.select("body")
                         .append("div")
                         .attr("class", "tooltip")
+                        .style("opacity", 1)
                         .style("position", "absolute")
                         tooltip.useHTML = true;
 
-                   
-                
 
-                    //插入樱花图片
 
-                        location.append("image")
-                        .attr("xlink:href","CB_Overlay.png" )
-                        .attr("height", 15)
-                        .attr("width", 15)
+                    //添加樱花图片信息
+                    location.append("image")
+                        .attr("xlink:href", "CherryBlossom.png")
+                        .attr("height", 30)
+                        .attr("width", 30)
                         .attr("opacity", 1)
 
-                  
-      
-                    //实现樱花的缩放效果   
+                    //实现樱花的缩放效果
                         .on("mouseover", function(d){
-                         tooltip.html("City:"+d.City+ "<br>" + "Full Bloom Date:"+d.Fulldate)  
-                         
+                         tooltip.html("<img src="+d.img+" width = "+120+" height = "+120+">"  +"<br>"+ "City: "+d.City + "<br>"+  "First Bloom Date: "+d.First + ", Highest Temp: "+d.FirstTemp +"°c"+"<br>" + "Full Bloom Date: "+d.Fulldate+ ", Highest Temp: "+d.FullTemp +"°c" )
+
                         .style("left", d3.event.pageX - 20+ "px")
                         .style("top", d3.event.pageY + 20 + "px")
+                        .style("right", d3.event.pageY - 20 + "px")
+                        .style("down", d3.event.pageY - 20 + "px")
                         .style("opacity", 1)
 
                          d3.select(this).transition()
                                         .duration(100)
                                         .attr("height", 50)
                                         .attr("width", 50)
-                                         
+
                                                      })
                        .on("mouseout", function(){
                       tooltip.style("opacity", 0)
                       d3.select(this).transition()
                                       .duration(100)
-                                      .attr("height", 15)
-                                      .attr("width", 15)
-                         });
+                                      .attr("height", 30)
+                                      .attr("width", 30)
 
-                  
-             
+
+                        });
+
 
                 });
-              
+
 
 
                 //添加标题
@@ -259,35 +258,33 @@
                     .style("text-anchor", "middle")
                     .style("font-weight", "bold")
                     .style("font-size", "22")
-                    .attr("fill", "pink")
+                    .attr("fill", "gray")
                     .text("🌸 The Bloom of 2018 Cherry Blossom 🌸")
 
                 var title2 = svg.append("text")
                     .attr("x", 225)
                     .attr("y", 80)
                     .style("text-anchor", "middle")
-                    
+
                     .style("font-size", "16")
-                    .attr("fill", "pink")
+                    .attr("fill", "gray")
                     .text("(* The map will be blank if no cherry bloom in the period.)")
 
-                
+
 
                 //设置选择看樱花的日期
 
-                var today = new Date() //定义一个时间对象 
+                var today = new Date() //定义一个时间对象
                 var yy = today.getYear()
                 var mm = today.getMonth() + 1
                 var dd = today.getDate()
-                var h = today.getHours() //定义小时 
-                var m = today.getMinutes() //定义分钟 
+                var h = today.getHours() //定义小时
+                var m = today.getMinutes() //定义分钟
             });
 };
 
-        
+
     </script>
-
-
 </body>
 
 </html>
